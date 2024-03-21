@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "courseWork2",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 2,
+        "name": "coursework3",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 3,
+        "name": "courseWork4",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 4,
+        "name": "data-structures-project",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 5,
+        "name": "electronics-shop-project",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 6,
+        "name": "Good_practices",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 7,
+        "name": "Marsag2023",
+        "stars": 0,
+        "forks": 0,
+        "language": null
+    },
+    {
+        "id": 8,
+        "name": "postgres-homeworks",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 9,
+        "name": "pytest_proj",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 10,
+        "name": "requests_json_datetime",
+        "stars": 0,
+        "forks": 0,
+        "language": null
+    },
+    {
+        "id": 11,
+        "name": "trending-it",
+        "stars": 0,
+        "forks": 0,
+        "language": null
+    },
+    {
+        "id": 12,
+        "name": "unittest_proj",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    },
+    {
+        "id": 13,
+        "name": "youtube-analytics-project",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+    }
+]
