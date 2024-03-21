@@ -19,7 +19,6 @@ load_dotenv()
 #     'port': '5432',
 #     'dbname': 'postgres'
 # }
-
 params = config()
 
 def main():
